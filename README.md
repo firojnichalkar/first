@@ -1,3 +1,3 @@
 # first
 first repositry
-auther firoz
+auther firoz nichalkar
